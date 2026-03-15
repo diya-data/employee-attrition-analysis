@@ -6,6 +6,8 @@ The dashboard provides insights into employee demographics, attrition trends, sa
 
 ## Tools Used
 Power BI
+Excel
+VLOOKUP
 Data Visualization
 HR Analytics
 
